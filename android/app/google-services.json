@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334429333933",
+    "project_id": "appcortecrivel",
+    "storage_bucket": "appcortecrivel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334429333933:android:14207f5ad9b18ccb9f1924",
+        "android_client_info": {
+          "package_name": "com.cortecri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334429333933-68i0cku25dfh2b2hfgan8t1iie25jr69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU4gBdI7c1EaBO00eTxbmHh2aGyXdtTSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334429333933-68i0cku25dfh2b2hfgan8t1iie25jr69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

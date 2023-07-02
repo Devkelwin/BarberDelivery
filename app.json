@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Corte Crível",
+    "slug": "CorteCrivel",
+    "version": "1.0.0",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b8569be4-217a-49d5-82fe-70c3dd0bb296"
+      }
+    }
+  },
+  "android": {
+    "config": {
+      "googleMaps": {
+        "apiKey": "AIzaSyAaaARo7waiaP_hbjvz9X6xpttswhFtQmE"
+      }
+    },
+     "package": "com.cortecri"
+  },
+ 
+      "adaptiveIcon": {
+        "backgroundColor": "#000000",
+        "foregroundImage": "./assets/icon.png"
+      }
+}
